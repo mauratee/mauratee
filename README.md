@@ -6,8 +6,6 @@ I'm Maura — software engineer in payments and fintech.
 
 ## What I work on (for a salary)
 
-The bulk of my engineering work isn't visible here — it's in private enterprise repos at two financial institutions:
-
 **Insurance Company** (current)
 - Production Spring Boot microservices on a payments platform
 - Kafka-based event-driven integration pipeline across multiple business lines
