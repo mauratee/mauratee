@@ -1,7 +1,7 @@
 ### Hi there 🧚
 I'm Maura — software engineer in payments and fintech.
 
-4+ years building payment systems at scale. Most of my production work lives in private repositories at MassMutual and JPMorgan Chase — including 744+ contributions on MassMutual's GitHub Enterprise in the past year alone.
+4+ years building payment systems at scale. Most of my production work lives in private repositories — including 744+ contributions on MassMutual's GitHub Enterprise in the past year alone.
 
 
 ## What I work on (for a salary)
