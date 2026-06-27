@@ -7,7 +7,7 @@ Software engineer with 4+ years building payment systems at scale. Most of my pr
 
 The bulk of my engineering work isn't visible here — it's in private enterprise repos at two financial institutions:
 
-**MassMutual** (current)
+**Insurance Company** (current)
 - Production Spring Boot microservices on a payments platform
 - Kafka-based event-driven integration pipeline across multiple business lines
 - API integration troubleshooting and incident resolution
