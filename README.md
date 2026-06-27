@@ -32,7 +32,7 @@ Payment Lifecycle (Auth/Capture/Refund/Reversal) · API Security · SDK Integrat
 
 ## What's public here
 
-Personal projects and exploratory work from Recurse Center (a self-directed programming retreat, Nov 2024–Feb 2025) and Hackbright Academy. Not representative of day-to-day production work, but shows breadth of interest. Open to implementation engineering and software engineering roles in payments and fintech.
+Personal projects and exploratory work from Recurse Center and Hackbright Academy. Not representative of day-to-day production work, but shows breadth of interest. Open to implementation engineering and software engineering roles in payments and fintech.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
