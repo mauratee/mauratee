@@ -13,7 +13,7 @@ The bulk of my engineering work isn't visible here — it's in private enterpris
 - API integration troubleshooting and incident resolution
 - ETL pipelines between enterprise systems
 
-**JPMorgan Chase / WePay** (2022–2024)
+**JPMorgan Chase / WePay**
 - Payment processing features — authorization, capture, refund, and reversal flows — on a global SMB payment gateway, part of Chase Merchant Services' $1T+ annual processing volume
 - Java/Spring Boot microservices: pre-capture fraud engine integration and ISV embedded payment processing (PayFac model)
 - API monitoring across 20+ endpoints; on-call incident resolution
