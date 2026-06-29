@@ -18,13 +18,13 @@ I'm Maura — software engineer in payments and fintech.
 - API monitoring across 20+ endpoints; on-call incident resolution
 
 
-## Tech I work with
+## Technologies
 
 ```
-Java · Spring Boot · Kafka · Python · REST APIs · Microservices
-Event-Driven Architecture · Webhooks · ETL · Salesforce · SQL · PostgreSQL
-Distributed Systems · Git · JavaScript · Flask · ACH · AWS · GCP
-Payment Lifecycle (Auth/Capture/Refund/Reversal) · API Security · SDK Integration
+Java · Python · JavaScript · SQL · PostgreSQL · Salesforce · Spring Boot 
+Webhooks · Flask · AWS · GCP · Event-Driven Architecture · Distributed Systems
+Kafka · ETL · REST APIs · Microservices · SDK Integration · API Security
+Payment Lifecycle (Auth/Capture/Refund/Reversal) · ACH
 ```
 
 
