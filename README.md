@@ -21,7 +21,7 @@ I'm Maura — software engineer in payments and fintech.
 ## Technologies
 
 ```
-Java · Python · JavaScript · SQL · PostgreSQL · Salesforce · Spring Boot 
+Java · Python · JavaScript · Node.js · SQL · PostgreSQL · Salesforce · Spring Boot 
 Webhooks · Flask · AWS · GCP · Event-Driven Architecture · Distributed Systems
 Kafka · ETL · REST APIs · Microservices · SDK Integration · API Security
 Payment Lifecycle (Auth/Capture/Refund/Reversal) · ACH
