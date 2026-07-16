@@ -30,7 +30,7 @@ Payment Lifecycle (Auth/Capture/Refund/Reversal) · ACH
 
 ## What's on my Github
 
-Personal projects and exploratory work from Recurse Center and Hackbright Academy. Not representative of my day-to-day production work, but shows things I'm interested in and learning. Open to implementation engineering and software engineering roles in payments and fintech.
+Personal projects and exploratory work from Recurse Center and Hackbright Academy. Not representative of my day-to-day production work, but shows things I'm interested in and learning.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
