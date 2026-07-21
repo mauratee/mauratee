@@ -31,14 +31,16 @@ Microservices · SDK Integration · API Security · Payment Lifecycle (Auth/Capt
 
 ## What's on my Github
 
-Acuschedule — a scheduling and payments platform for acupuncturists built on Adyen for Platforms, including KYC onboarding, balance accounts, and split payments. Everything else here is exploratory work from Recurse Center and Hackbright Academy — not representative of day-to-day production work, but shows what I'm curious about and learning.
+Acuschedule — a scheduling and payments platform for acupuncturists built on Adyen for Platforms, including KYC onboarding, balance accounts, and split payments. 
+
+Everything else here is exploratory work from Recurse Center and Hackbright Academy — not representative of day-to-day production work, but shows what I'm curious about and learning.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📍 New York, NY      
 🔗 [LinkedIn](https://linkedin.com/in/maurathompson1)
 
-
+```
 ⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀
 ⠀⠀⠀⠈⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠉⣀⡀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀
@@ -53,3 +55,4 @@ Acuschedule — a scheduling and payments platform for acupuncturists built on A
 ⠀⠀⠀⠰⠆⠈⢷⣻⣟⣷⡽⠟⠁⠀⠀⠀⠀⠈⠻⠽⣲⢿⢾⡹⠃⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠈⢅⠢⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⢀⠀⠀⠀⠃⠀⠀
 ⠀⠀⠀⠀⠀⠉⠀⠐⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀
+```
