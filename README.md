@@ -7,24 +7,25 @@ I'm Maura — software engineer in payments and fintech.
 ## What I work on (for a salary)
 
 **Insurance Company** (current)
-- Production Spring Boot microservices on a payments platform
-- Kafka-based event-driven integration pipeline across multiple business lines
+- Production Spring Boot and Node.js microservices on a payments and integration platform
+- Kafka-based event-driven integration pipeline, backed by MongoDB, across multiple business lines
+- Services deployed and monitored on Kubernetes, including pod-level scaling
 - API integration troubleshooting and incident resolution
 - ETL pipelines between enterprise systems
 
 **JPMorgan Chase / WePay**
 - Payment processing features — authorization, capture, refund, and reversal flows — on a global SMB payment gateway, part of Chase Merchant Services' $1T+ annual processing volume
-- Java/Spring Boot microservices: pre-capture fraud engine integration and ISV embedded payment processing (PayFac model)
+- Java/Spring Boot microservices using gRPC: pre-capture fraud engine integration and ISV embedded payment processing (PayFac model)
 - API monitoring across 20+ endpoints; on-call incident resolution
 
 
 ## Technologies
 
 ```
-Java · Python · JavaScript · Node.js · SQL · PostgreSQL · Salesforce · Spring Boot 
-Webhooks · Flask · AWS · GCP · Event-Driven Architecture · Distributed Systems
-Kafka · ETL · REST APIs · Microservices · SDK Integration · API Security
-Payment Lifecycle (Auth/Capture/Refund/Reversal) · ACH
+Java · Node.js · Python · JavaScript · React.js · SQL · MySQL · PostgreSQL · MongoDB
+Spring Boot · Kubernetes · Terraform · Salesforce · Webhooks · Flask · AWS · GCP
+Event-Driven Architecture · Distributed Systems · Kafka · ETL · REST APIs · gRPC
+Microservices · SDK Integration · API Security · Payment Lifecycle (Auth/Capture/Refund/Reversal) · ACH
 ```
 
 
